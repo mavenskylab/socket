@@ -1,0 +1,19 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavenskylab/socket.git"
+  },
+  "author": "mavenskylab",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mavenskylab/socket/issues"
+  },
+  "homepage": "https://github.com/mavenskylab/socket#readme"
+}
